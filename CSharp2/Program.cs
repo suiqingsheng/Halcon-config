@@ -45,7 +45,7 @@ namespace CSharp2
             HOperatorSet.GenEmptyObj(out ho_Image);
             //dev_close_window(...);
             ho_Image.Dispose();
-            HOperatorSet.ReadImage(out ho_Image, "D:/test DI/IMG_20180618_172946_HDR.jpg");
+            HOperatorSet.ReadImage(out ho_Image, "D:/Visual studio 2017/Projects/Halcon-Config/res/IMG_20180618_172946_HDR.jpg");
             hv_Width.Dispose(); hv_Height.Dispose();
             HOperatorSet.GetImageSize(ho_Image, out hv_Width, out hv_Height);
             //dev_open_window(...);

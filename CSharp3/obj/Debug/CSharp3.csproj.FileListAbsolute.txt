@@ -1,0 +1,14 @@
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\bin\Debug\CSharp3.exe
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\bin\Debug\CSharp3.pdb
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\bin\Debug\halcondotnet.dll
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\bin\Debug\hdevenginedotnet.dll
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\bin\Debug\halcondotnet.xml
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\bin\Debug\hdevenginedotnet.xml
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.csprojAssemblyReference.cache
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.Form1.resources
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.Properties.Resources.resources
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.csproj.GenerateResource.cache
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.csproj.CoreCompileInputs.cache
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.csproj.CopyComplete
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.exe
+D:\visual studio 2017\Projects\Halcon-Config\CSharp3\obj\Debug\CSharp3.pdb

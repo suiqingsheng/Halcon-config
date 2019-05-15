@@ -34,7 +34,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(155, 200);
+            this.button1.Location = new System.Drawing.Point(122, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 1;
@@ -47,7 +47,7 @@
             this.hWindowControl1.BackColor = System.Drawing.Color.White;
             this.hWindowControl1.BorderColor = System.Drawing.Color.White;
             this.hWindowControl1.ImagePart = new System.Drawing.Rectangle(0, 0, 640, 480);
-            this.hWindowControl1.Location = new System.Drawing.Point(332, 74);
+            this.hWindowControl1.Location = new System.Drawing.Point(12, 41);
             this.hWindowControl1.Name = "hWindowControl1";
             this.hWindowControl1.Size = new System.Drawing.Size(320, 240);
             this.hWindowControl1.TabIndex = 2;
@@ -57,7 +57,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(345, 294);
             this.Controls.Add(this.hWindowControl1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
